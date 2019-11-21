@@ -24,6 +24,14 @@ The spectral models in `gammapy.astro.darkmatter.PrimaryFlux` are based on
 annihilation channels). These models are most commonly used in VHE dark matter
 analyses.
 
+Simulation and analysis
+-----------------------
+
+We are developing some simulation and analysis tools for indirect gamma-ray
+dark matter searches. The main aim is to provide an standardized analysis
+pipeline. For more information check :ref:`DM_analysis`.
+
+
 Other packages
 ==============
 
